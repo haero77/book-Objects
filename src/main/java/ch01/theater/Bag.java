@@ -1,4 +1,4 @@
-package theater;
+package ch01.theater;
 
 // 관람객이 소지품을 보관하는 Bag
 public class Bag {
